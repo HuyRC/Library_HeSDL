@@ -1,0 +1,2 @@
+tài khoản và mật khẩu ban đầu được dùng cho CNPM nhưng mà bây giờ thì không dùng tới, database của 2 môn là y nhau nên t lấy sử dụng lun nên cứ lấy dùng bình thường không sao hết
+nếu anh em muốn tạo lại thì phản hồi
