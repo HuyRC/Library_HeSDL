@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fd5ffb9274744006b9b3fd4343b48bf5" Name="Diagram1" ZoomLevel="109">
+        <EntityTypeShape EntityType="LibraryManagementModel.Author" Width="1.5" PointX="1.5" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.Book" Width="1.5" PointX="0.75" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.BookCopy" Width="1.5" PointX="3" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.Category" Width="1.5" PointX="1.5" PointY="18.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.Fine" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.Loan" Width="1.5" PointX="3" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.LoanDetail" Width="1.5" PointX="5.25" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.Publisher" Width="1.5" PointX="0.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.Reader" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LibraryManagementModel.sysdiagram" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="LibraryManagementModel.FK_Book_Author" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryManagementModel.FK_Book_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryManagementModel.FK_BookCopy_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryManagementModel.FK_BookCopy_Publisher" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryManagementModel.FK_LoanDetail_BookCopy" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryManagementModel.FK_Fine_LoanDetail" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryManagementModel.FK_Fine_Reader" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryManagementModel.FK_Loan_Reader" ManuallyRouted="false" />
+        <AssociationConnector Association="LibraryManagementModel.FK_LoanDetail_Loan" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

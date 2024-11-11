@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Library_HeCSDL\\Library_HeCSDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F479DB7-9AB2-415A-9EB8-E57040696A68}|Library_HeCSDL\\Library_HeCSDL.csproj|c:\\library_hecsdl\\library_hecsdl\\library_hecsdl\\models\\library.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6F479DB7-9AB2-415A-9EB8-E57040696A68}|Library_HeCSDL\\Library_HeCSDL.csproj|solutionrelative:library_hecsdl\\models\\library.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F479DB7-9AB2-415A-9EB8-E57040696A68}|Library_HeCSDL\\Library_HeCSDL.csproj|c:\\library_hecsdl\\library_hecsdl\\library_hecsdl\\models\\library.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6F479DB7-9AB2-415A-9EB8-E57040696A68}|Library_HeCSDL\\Library_HeCSDL.csproj|solutionrelative:library_hecsdl\\models\\library.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F479DB7-9AB2-415A-9EB8-E57040696A68}|Library_HeCSDL\\Library_HeCSDL.csproj|c:\\library_hecsdl\\library_hecsdl\\library_hecsdl\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F479DB7-9AB2-415A-9EB8-E57040696A68}|Library_HeCSDL\\Library_HeCSDL.csproj|solutionrelative:library_hecsdl\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F479DB7-9AB2-415A-9EB8-E57040696A68}|Library_HeCSDL\\Library_HeCSDL.csproj|c:\\library_hecsdl\\library_hecsdl\\library_hecsdl\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F479DB7-9AB2-415A-9EB8-E57040696A68}|Library_HeCSDL\\Library_HeCSDL.csproj|solutionrelative:library_hecsdl\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.Context.tt",
+              "DocumentMoniker": "C:\\Library_HeCSDL\\Library_HeCSDL\\Library_HeCSDL\\Models\\Library.Context.tt",
+              "RelativeDocumentMoniker": "Library_HeCSDL\\Models\\Library.Context.tt",
+              "ToolTip": "C:\\Library_HeCSDL\\Library_HeCSDL\\Library_HeCSDL\\Models\\Library.Context.tt",
+              "RelativeToolTip": "Library_HeCSDL\\Models\\Library.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-11T16:56:29.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Library_HeCSDL\\Library_HeCSDL\\Library_HeCSDL\\Models\\Library.edmx",
+              "RelativeDocumentMoniker": "Library_HeCSDL\\Models\\Library.edmx",
+              "ToolTip": "C:\\Library_HeCSDL\\Library_HeCSDL\\Library_HeCSDL\\Models\\Library.edmx [Diagram1]",
+              "RelativeToolTip": "Library_HeCSDL\\Models\\Library.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-11T16:47:32.376Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Library_HeCSDL\\Library_HeCSDL\\Library_HeCSDL\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Library_HeCSDL\\MainWindow.xaml",
+              "ToolTip": "C:\\Library_HeCSDL\\Library_HeCSDL\\Library_HeCSDL\\MainWindow.xaml",
+              "RelativeToolTip": "Library_HeCSDL\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-11T16:44:37.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Library_HeCSDL\\Library_HeCSDL\\Library_HeCSDL\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Library_HeCSDL\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Library_HeCSDL\\Library_HeCSDL\\Library_HeCSDL\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Library_HeCSDL\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:44:37.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
